@@ -1,6 +1,16 @@
+body{
+  
+  background-image: url('../img/back.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+  
+}
+
+
+
 #wrapper{
-  background-image: url(../img/back.jpg);
-  height: 800px;
+    height: 800px;
   width:1000px;
   background-color: pink;
   margin-left: auto;
@@ -9,7 +19,9 @@
 header{
   width: 1000px;
   height: 200px;
-  background-image: url('../img/logga.png');
+  background-image: url('../img/logga1.jpg');
+  
+  background-size: contain;
   
 }
 nav{
