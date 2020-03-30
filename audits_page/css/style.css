@@ -1,16 +1,16 @@
 body{
   
   background-image: url('../img/back.jpg');
-background-repeat: no-repeat;
-background-size: cover;
-
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
   
 }
 
 
 
 #wrapper{
-    height: 800px;
+  height: 800px;
   width:1000px;
   
   margin-left: auto;
